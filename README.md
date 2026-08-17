@@ -107,14 +107,14 @@ CV_JUAN/
 
 ## 🚀 Proyectos Destacados
 
-1. **Web Services Automation** - Framework con Serenity BDD + Screenplay
-   - [Ver repositorio](https://github.com/juanfranciscobumo/CapacitacionQvision)
+1. **Quality E2E Challenge** - Pruebas UI y API CRUD con Serenity BDD, Screenplay, Cucumber y CI
+   - [Ver repositorio](https://github.com/juanfranciscobumo/RetoLaHaus)
 
-2. **Web Pages Automation** - Framework para sitios web
-   - [Ver repositorio](https://github.com/juanfranciscobumo/YoutubeAutomation)
+2. **Employee API Quality** - Automatización API REST con Serenity BDD, Screenplay y Cucumber
+   - [Ver repositorio](https://github.com/juanfranciscobumo/AutoApiEmpleados)
 
-3. **Mobile App Automation** - Automatización Android con Appium
-   - [Ver repositorio](https://github.com/juanfranciscobumo/appium_whatsapp)
+3. **API Testing** - Pruebas REST con configuración segura y CI
+   - [Ver repositorio](https://github.com/juanfranciscobumo/GoogleSearchRest)
 
 ## 📝 Licencia
 
